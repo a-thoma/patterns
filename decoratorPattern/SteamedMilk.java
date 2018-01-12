@@ -1,7 +1,5 @@
 public class SteamedMilk extends CondimentDecorator {
 
-	Beverage beverage; /* for wrapping */
-
 	public SteamedMilk(Beverage beverage) {
 
 		this.beverage = beverage;

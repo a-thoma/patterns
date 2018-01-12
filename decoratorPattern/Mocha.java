@@ -1,7 +1,5 @@
 public class Mocha extends CondimentDecorator {
 
-	Beverage beverage; /* for wrapping */
-
 	public Mocha(Beverage beverage) {
 
 		this.beverage = beverage;
